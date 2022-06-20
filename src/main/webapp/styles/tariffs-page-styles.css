@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Rubik&display=swap');
+
+.header {
+    position: relative;
+}
+
+.tariffs-content-block {
+    margin: 1.5% 6% 6.5% 6%;
+    padding-bottom: 3%;
+    background-color: #F4F4F4;
+    font-family: 'Rubik', sans-serif;
+}
+
+.tariff-block {
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
+
+.table-title {
+    color: #FF8800;
+    margin-bottom: 2%;
+}
+
+.tariff-block table {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 75%;
+    text-align: center;
+}
+
+.table-header-row {
+    background-color: #6E18FB;
+    color: white;
+}
+
+.table-body-row {
+    background-color: white;
+    color: black;
+}
+
+.tariff-block table tr {
+    border: 1px #BEBEBE solid;
+    height: 50px;
+}
+
+.tariff-footer-info {
+    margin-top: 5%;
+    color: #009229;
+/*    font-family: 'Rubik', sans-serif;*/
+}
+
+.tariff-footer-info img {
+    width: 40px;
+    margin: 10px;
+}
