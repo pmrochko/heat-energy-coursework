@@ -5,8 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.myproject</groupId>
-    <artifactId>coursework</artifactId>
+    <artifactId>heat-energy-coursework</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <name>coursework</name>
     <packaging>war</packaging>
 
